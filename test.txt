@@ -9,4 +9,5 @@ while p<=100:
    if is_prime == True: 
       print(p)
    p=p+1
+print("GitHub Demo")
  
